@@ -1,7 +1,7 @@
  Python Reinforcement Learning where we teach an AI to play Snake! It's build using Pygame and PyTorch.
 
  # Snake AI image
-
+<img src="https://github.com/Poo-wei-chien/snake-ai-pytorch/blob/main/Reinforce_Learning_AI_Snake_Game%20.png">
 
 ## Installation
 1. Clone the repository
